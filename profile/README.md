@@ -12,4 +12,4 @@ Butterfly is a compact, appealing, secure, and performant administration panel f
 - The [core](https://github.com/butterfly-hq/core) repository, which contains the source code of the Butterfly panel and command bar; or
 - The [manager](https://github.com/butterfly-hq/manager) repository, which contains the source code of the user-friendly manager plugin.
 
-Butterfly is released under the [General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Butterfly is built with roblox-ts.
+Butterfly is released under the [MIT License](https://opensource.org/license/mit). Butterfly is built with roblox-ts.
